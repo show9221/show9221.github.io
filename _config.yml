@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "default","air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "MESAI"
+title                    : "M.E.S.A.I"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jeong Yeonwoo"
-description              : ""
+name                     : "정연우"
+description              : "기계공학/인공지능/CAE 엔지니어"
 url                      : #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
