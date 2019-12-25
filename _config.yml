@@ -20,7 +20,7 @@ title                    : "M.E.S.A.I"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "정연우"
-description              : "기계공학/인공지능/CAE 엔지니어"
+description              : "공학에 적용하기 위한 AI 블로그. AI 적용 사례, 논문 리뷰, 스터디 "
 url                      : #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "정연우"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "공학에 적용하기 위한 AI 블로그. AI 적용 사례, 논문 리뷰, 스터디 자료 공유"
+  bio              : "기계공학/인공지능/CAE 엔지니어"
   location         : "South Korea"
   email            : show9221@naver.com
   links:
