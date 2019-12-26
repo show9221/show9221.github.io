@@ -23,7 +23,7 @@ name                     : "정연우"
 description              : "공학에 적용하기 위한 AI 블로그. AI 적용 사례, 논문 리뷰, 스터디 "
 url                      : #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : show9221.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "정연우"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.tif" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "기계공학/인공지능/CAE 엔지니어"
   location         : "South Korea"
   email            : show9221@naver.com
