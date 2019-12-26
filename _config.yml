@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "default","air", "aqua", "contrast", "da
 locale                   : "ko-KR"
 title                    : "M.E.S.A.I"
 title_separator          : "-"
-subtitle                 : "Version 1.0" # site tagline that appears below site title in masthead
+subtitle                 : "Mechanical Engineer Studying Artificial Intelligence" # site tagline that appears below site title in masthead
 name                     : "정연우"
 description              : "공학에 적용하기 위한 AI 블로그. AI 적용 사례, 논문 리뷰, 스터디 "
 url                      : #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
