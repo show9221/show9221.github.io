@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "정연우"
-  avatar           : "/assets/images/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "기계공학/인공지능/CAE 엔지니어"
   location         : "South Korea"
   email            : show9221@naver.com
