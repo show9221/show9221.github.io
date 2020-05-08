@@ -20,7 +20,7 @@ title                    : "Yeonwoo's Blog"
 title_separator          : "-"
 subtitle                 : "Mechanical Engineer & Studying Artificial Intelligence" # site tagline that appears below site title in masthead
 name                     : "정연우"
-description              : "공학에 적용하기 위한 AI, CAE 해석 블로그. 기술 공유, 논문 리뷰, 스터디 "
+description              : "CAE and AI Blog."
 url                      : #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : show9221.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
