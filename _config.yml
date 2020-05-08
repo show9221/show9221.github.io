@@ -20,7 +20,7 @@ title                    : "Yeonwoo's Blog"
 title_separator          : "-"
 subtitle                 : "Mechanical Engineer & Studying Artificial Intelligence" # site tagline that appears below site title in masthead
 name                     : "정연우"
-description              : "공학에 적용하기 위한 AI 블로그. AI 적용 사례, 논문 리뷰, 스터디 "
+description              : "공학에 적용하기 위한 AI, CAE 해석 블로그. 기술 공유, 논문 리뷰, 스터디 "
 url                      : #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : show9221.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,13 +109,13 @@ analytics:
 author:
   name             : "정연우"
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "기계공학/인공지능/CAE 엔지니어"
+  bio              : "CAE 엔지니어/AI 공부"
   location         : "South Korea"
   email            : show9221@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:show9221@email.com
+       url: mailto:show9221@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
